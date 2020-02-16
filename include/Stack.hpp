@@ -1,4 +1,4 @@
-// Copyright 2020 <mmeshcher>
+// Copyright 2020 <VladDarb2000>
 
 #ifndef INCLUDE_STACK_HPP_
 #define INCLUDE_STACK_HPP_

@@ -1,4 +1,4 @@
-// Copyright 2020 <mmeshcher>
+// Copyright 2020 <VladDarb2000>
 
 #ifndef INCLUDE_SIMPLESTACK_HPP_
 #define INCLUDE_SIMPLESTACK_HPP_

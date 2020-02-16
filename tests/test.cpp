@@ -1,4 +1,4 @@
-// Copyright 2020 <mmeshcher>
+// Copyright 2020 <VladDarb2000>
 
 #include <gtest/gtest.h>
 #include "SimpleStack.hpp"
