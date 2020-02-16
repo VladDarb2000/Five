@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libstack2d.a  CMakeFiles/stack2.dir/sources/Stack.cpp.o
+/usr/bin/ranlib.exe libstack2d.a
